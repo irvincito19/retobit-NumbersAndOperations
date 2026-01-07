@@ -105,7 +105,7 @@ public class NumbersAndOperations {
         int initialValue = 7;
 
         // Tu código aquí
-        int finalResult =  (initialValue + 5)*13;
+        int finalResult =  initialValue + 5 * 13;
 
         return finalResult; // Sustituye el 0 por finalResult
     }
